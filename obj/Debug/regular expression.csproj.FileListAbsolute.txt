@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\regular expression\regular expression\bin\Debug\regular expression.exe.config
+C:\Users\lenovo\source\repos\regular expression\regular expression\bin\Debug\regular expression.exe
+C:\Users\lenovo\source\repos\regular expression\regular expression\bin\Debug\regular expression.pdb
+C:\Users\lenovo\source\repos\regular expression\regular expression\obj\Debug\regular expression.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\regular expression\regular expression\obj\Debug\regular expression.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\regular expression\regular expression\obj\Debug\regular expression.exe
+C:\Users\lenovo\source\repos\regular expression\regular expression\obj\Debug\regular expression.pdb
